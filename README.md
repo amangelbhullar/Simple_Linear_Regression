@@ -1,5 +1,5 @@
 ## Simple_Linear_Regression
-x = Independent variable
+x = Independent variable;
 y = Dependent variable
 ## Import libraries and dataset
 import numpy as np
