@@ -1,5 +1,6 @@
 ## Simple_Linear_Regression
-
+x = Independent variable
+y = Dependent variable
 ## Import libraries and dataset
 import numpy as np
 import matplotlib.pyplot as plt
